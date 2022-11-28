@@ -2783,7 +2783,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #b6afab8f;
+			background-color: linear-gradient(to top right, #3d251e 20%,#4d342a79 50%, rgb(161, 150, 150));
 			box-shadow: none !important;
 			color: #fff !important;
 		}
