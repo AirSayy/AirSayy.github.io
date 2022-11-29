@@ -2702,7 +2702,7 @@ input, select, textarea {
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		background-color: transparent;
-		border-radius: 5px;
+		border-radius: 15px;
 		border: 0;
 		background: linear-gradient(to top right, #3d251e 20%,#4d342a79 50%, rgb(161, 150, 150));
 		box-shadow: inset 0 0 0 1px #765341;
