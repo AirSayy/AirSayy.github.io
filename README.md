@@ -24,6 +24,6 @@ Customize the website to your liking by editing the HTML, CSS, and JavaScript fi
 Feel free to use this static portfolio website as a template for your own portfolio. Simply replace the content in the HTML, CSS, and JavaScript files with your own content.
 
 
-#### Developed by Airsay
+#### Developed by Airsay~
 ## License
 This project is licensed under the MIT license.
