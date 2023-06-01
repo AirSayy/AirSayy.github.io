@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio.
 This is a portfolio website that showcases my work as a FullStack Engineer. The website is built using HTML, CSS, and JavaScript and is hosted on <a href="https://www.netlify.com/">NETLIFY</a>
 
 #### **Link to portfolio** <a href="https://airsay.netlify.app/">AirsayCodes</a>
